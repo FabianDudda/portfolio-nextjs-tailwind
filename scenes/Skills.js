@@ -63,7 +63,7 @@ const Skills = () => {
           }}
         >
           <div className="relative h-32">
-            <div className="z-10">
+            <div className="z-10 absolute">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
                 Experience
@@ -91,7 +91,7 @@ const Skills = () => {
           }}
         >
           <div className="relative h-32">
-            <div className="z-10">
+            <div className="z-10 absolute">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
                 Innovative
@@ -119,7 +119,7 @@ const Skills = () => {
           }}
         >
           <div className="relative h-32">
-            <div className="z-10">
+            <div className="z-10 absolute">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
                 Imaginative
